@@ -53,40 +53,35 @@ const grafiti = [
     lokacija: "KUĆA TRAGIČNOG PJESNIKA · Ulazni mozaik"
   },
   {
-    tekst: "SALVE LUCRETIA, HABITAS BENE",
-    prijevod: "Zdravo, Lukrecija, živi dobro.",
-    lokacija: "Regio I · Grafit na zidu"
-  },
+  tekst: "ADMIROR O PARIES TE NON CECIDISSE RUINIS, QUI TOT SCRIPTORUM TAEDIA SUSTINEAS",
+  prijevod: "Čudim se, o zide, što se nisi srušio pod teretom tolikih dosadnih natpisa.",
+  lokacija: "Pompeji · Grafit"
+},
   {
-    tekst: "NUCERIA, CAMPANIA, POMPEII — AMO TE",
-    prijevod: "Nucerijo, Kampanijo, Pompeji — volim vas.",
-    lokacija: "Slastičarnica · Grafit ljubavi"
-  },
+  tekst: "QUISQUIS AMAT VENIAT",
+  prijevod: "Neka dođe onaj ko voli.",
+  lokacija: "Basilica · Grafit"
+},
   {
-    tekst: "APOLLINARIS MEDICUS TITI IMPERATORIS HIC FUIT",
-    prijevod: "Apolinar, doktor cara Tita, bio je ovdje.",
-    lokacija: "Stabijske terme · Grafit"
-  },
+  tekst: "MILITAT OMNIS AMANS",
+  prijevod: "Svaki ljubavnik je vojnik.",
+  lokacija: "Pompeji · Grafit"
+},
   {
     tekst: "QUISQUIS AMAT, VALEAT",
     prijevod: "Neka svako ko ljubi bude dobro.",
-    lokacija: "Lupanar · Grafit"
+    lokacija: "Kuća Cecilija Jukunda (V.1.26) · Grafit"
   },
+ {
+  tekst: "FULLONES ULULAMQUE CANO, NON ARMA VIRUMQUE",
+  prijevod: "Pjevam o pralcima i sovi, a ne o oružju i junaku.",
+  lokacija: "Kuća Marka Fabija Ululitremula · Via dell’Abbondanza · Grafit"
+},
   {
-    tekst: "CACATOR CAVE MALUM",
-    prijevod: "Seronjo, čuvaj se zla!",
-    lokacija: "Regio IX · Upozorenje na zidu"
-  },
-  {
-    tekst: "POMPEIIIS GAUDENT OMNES",
-    prijevod: "Svi se raduju u Pompejima.",
-    lokacija: "Forum · Grafit"
-  },
-  {
-    tekst: "UBI TU, BELLA?",
-    prijevod: "Gdje si, ljepotice?",
-    lokacija: "Vicolo del Fauno · Grafit"
-  }
+  tekst: "PEREAT QUI NESCIT AMARE",
+  prijevod: "Neka propadne onaj ko ne zna voljeti.",
+  lokacija: "Pompeji · Ljubavni grafit"
+}
 ];
 
 const grid = document.getElementById('grafitiGrid');
